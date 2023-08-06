@@ -1,0 +1,20 @@
+@media screen and (max-width:1158px) {
+
+    .services {
+        flex-direction: column;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    .home ul {
+        /* flex-direction: column; */
+        align-items: center;
+        margin: -15px -25px;
+    }
+
+
+
+
+}
